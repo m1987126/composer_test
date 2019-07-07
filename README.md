@@ -1,2 +1,2 @@
 # composer_test
-composer
+该项目用于学习composer
