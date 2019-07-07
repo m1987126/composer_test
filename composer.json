@@ -1,0 +1,14 @@
+{
+    "name": "m1987126/composer_test",
+    "description": "composer learn",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lin",
+            "email": "1228998462@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
